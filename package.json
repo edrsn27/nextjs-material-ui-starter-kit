@@ -1,7 +1,12 @@
 {
-  "name": "next-auth-material-ui-starter-kit",
+  "name": "nextjs-material-ui-starter-kit",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Ederson Villegas",
+    "email": "edersonvillegas50@gmail.com",
+    "url": "https://github.com/edrsn27"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -15,6 +20,7 @@
     "@mui/material": "^5.8.0",
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "recharts": "^2.1.9"
   }
 }
