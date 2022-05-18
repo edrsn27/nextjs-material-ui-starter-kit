@@ -6,7 +6,7 @@
  
  [Material-UI](https://mui.com/) is simply a library that allows us to import and use different components to create a user interface in our React applications. This saves a significant amount of time since the developers do not need to write everything from scratch
 
-## Demo Page:
+## Demo Page: [Home Page](https://nextjs-material-ui-starter-kit.vercel.app/)
 
 ## Features
 
