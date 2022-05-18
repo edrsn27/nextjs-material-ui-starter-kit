@@ -11,7 +11,7 @@
 ## Features
 
 - SignInSide Page
-- Dashboard Page
+- [Dashboard Page](https://nextjs-material-ui-starter-kit.vercel.app/dashboard)
 
 ## Installation
 
